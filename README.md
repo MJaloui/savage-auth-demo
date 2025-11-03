@@ -4,7 +4,7 @@
 
 This is a full-stack message board application with user authentication where users can post, manage, and rate messages. Users can create new posts, delete their own messages, and interact with others' posts through a thumbs up/down rating system that tracks vote counts. A collaborative platform for sharing thoughts and engaging with community feedback.
 
-<img width="800" alt="Message Board Application Screenshot" src="https://via.placeholder.com/800x450?text=Message+Board+Screenshot" />
+
 
 **Core Features**
 
